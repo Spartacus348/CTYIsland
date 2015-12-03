@@ -7,7 +7,8 @@ get them better organized and commented over the course of Thursday, early after
      CTYIsland was a text-based game dreamed up by a friend of mine over the summer before my
 junior year of high school, and I attempted to make it into a 2D RPG as a final project for my
 AP Computer Science course. I used the AP course's Gridworld program as my base, and modified
-it as I needed. The most recent version is CTYIsland 3, which will run if you compile it. 
+it as I needed. The most recent version is CTYIsland_All_One_World_3, which will work if you
+Run it. The player character is just to the east of the volcano, near the north.
 
      Like I said, you are free to look through my files as you want, though they will become 
 more organized as Thursday goes on. 
